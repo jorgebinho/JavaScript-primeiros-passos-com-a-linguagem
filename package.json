@@ -1,0 +1,20 @@
+{
+  "name": "bytebank",
+  "version": "1.0.0",
+  "description": "Projeto do ByteBank para seus clientes",
+  "main": "./jsoo/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgebinho/JavaScript-primeiros-passos-com-a-linguagem.git"
+  },
+  "author": "Jorge Almeida",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/jorgebinho/JavaScript-primeiros-passos-com-a-linguagem/issues"
+  },
+  "homepage": "https://github.com/jorgebinho/JavaScript-primeiros-passos-com-a-linguagem#readme"
+}
