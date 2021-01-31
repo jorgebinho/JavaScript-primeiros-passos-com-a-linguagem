@@ -11,6 +11,7 @@ export class SistemaAutenticacao{
     }
 
     static ehAutenticavel(autenticavel){
-        return "autenticar" in autenticavel
+        return "autenticar" in autenticavel && 
+        autenticavel.autenticar instanceof Function;
     }
 }
